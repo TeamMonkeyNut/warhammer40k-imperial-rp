@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"warhammer40k-imperial-rp"
+	"author"	"MonkeyNut"
+	"menusystem" "1"
+}
